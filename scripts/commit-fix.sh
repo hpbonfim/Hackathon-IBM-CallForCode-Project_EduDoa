@@ -43,7 +43,7 @@ echo "adding all files"
 git add -A
 
 echo "adding messages to commit"
-git commit -m "fix: $TITLE" -m "$DESCRIPTION"
+git commit -m "fix: $TITLE" -m "BREAKING CHANGE: $DESCRIPTION"
 
 echo "push to github"
 git push
