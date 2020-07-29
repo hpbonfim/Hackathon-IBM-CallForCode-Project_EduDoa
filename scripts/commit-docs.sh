@@ -5,7 +5,7 @@
 optsFunction() {
    echo ""
    echo "Usage: $0 -d description of docs change for commit"
-   echo "\t-d Description of docs change"
+   echo "-d \"Description of docs change\""
    exit 1 # Exit script after printing help
 }
 

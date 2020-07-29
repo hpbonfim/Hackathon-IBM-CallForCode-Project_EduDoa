@@ -6,8 +6,8 @@
 optsFunction() {
    echo ""
    echo "Usage: $0 -t title -d breaking change"
-   echo "\t-t Description of title"
-   echo "\t-d Description of breaking change"
+   echo "-t \"Description of title\""
+   echo "-d \"Description of breaking change\""
    exit 1 # Exit script after printing help
 }
 

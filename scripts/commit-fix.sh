@@ -6,8 +6,8 @@
 optsFunction() {
    echo ""
    echo "Usage: $0 -t title -d description"
-   echo "\t-t Description of title"
-   echo "\t-d Description of what is fixed on code"
+   echo "-t \"Description of title\""
+   echo "-d \"Description of what is fixed on code\""
    exit 1 # Exit script after printing help
 }
 

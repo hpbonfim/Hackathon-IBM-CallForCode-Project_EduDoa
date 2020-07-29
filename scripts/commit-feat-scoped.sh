@@ -5,9 +5,9 @@
 
 optsFunction() {
    echo ""
-   echo "Usage: $0 -t title -s scope"
-   echo "\t-t Description of title"
-   echo "\t-s Description of scope"
+   echo "Usage: $0 -s scope -t title "
+   echo "-s \"Description of scope\""
+   echo "-t \"Description of title\""
    exit 1 # Exit script after printing help
 }
 
