@@ -43,7 +43,7 @@ echo "adding all files"
 git add -A
 
 echo "adding messages to commit"
-git commit -m "refactor!:$TITLE" -m "BREAKING CHANGE: $DESCRIPTION"
+git commit -m "refactor!: $TITLE" -m "BREAKING CHANGE: $DESCRIPTION"
 
 echo "push to github"
 git push

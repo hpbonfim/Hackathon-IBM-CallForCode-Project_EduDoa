@@ -3,10 +3,9 @@
 ## https://www.conventionalcommits.org/en/v1.0.0/#specification
 ## THe type feat MUST be used when a commit adds a new feature to your application or library.
 
-
 optsFunction() {
    echo ""
-   echo "Usage: $0 -t title -d description"
+   echo "Usage: $0 -t title -d escription"
    echo "\t-t Description of title"
    echo "\t-d Description of breaking change"
    exit 1 # Exit script after printing help
