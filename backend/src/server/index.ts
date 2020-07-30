@@ -1,4 +1,5 @@
 import bodyParser from 'body-parser'
+import { Watson } from '../functions'
 import express from 'express'
 import dotenv from "dotenv"
 import morgan from "morgan"
@@ -21,7 +22,10 @@ class API {
     }
     
     routes() {
-        this.server.route('/').get((req, res) => res.status(200).json({  'Hello': 'World!'  }))
+        this.server.route('/').get((req, res) => res.status(200).json({  'Hello World': 'EduDoa its alive!'  }))
+        this.server.route('/api/bot/beginAssistant').get(Watson.default.beginAssistant)
+        this.server.route('/api/bot/talkAssistant').post(Watson.default.talkAssistant)
+        this.server.route('/api/bot/closeAssistant').post(Watson.default.closeAssistant)
     }
 }
 
