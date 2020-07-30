@@ -47,7 +47,7 @@ $ npm start
 ```
 file: commit-docs.sh
 
-$ bash commit-docs.sh -d "brief description of what change"
+$ bash scripts/commit-docs.sh -d "brief description of what change"
 ```
 
 <hr/>
@@ -62,7 +62,7 @@ $ bash commit-docs.sh -d "brief description of what change"
 ```
 file: commit-feat.sh
 
-$ bash commit-feat.sh -t "Title" -d "Description"
+$ bash scripts/commit-feat.sh -t "Title" -d "Description"
 ```
 
 <hr/>
@@ -75,7 +75,7 @@ $ bash commit-feat.sh -t "Title" -d "Description"
 ```
 file: commit-feat-scoped.sh
 
-$ bash commit-feat.sh -t "Title" -s "Scope"
+$ bash scripts/commit-feat-scoped.sh -t "Title" -s "Scope"
 ```
 
 <hr/>
@@ -90,7 +90,7 @@ $ bash commit-feat.sh -t "Title" -s "Scope"
 ```
 file: commit-feat-scoped-description.sh
 
-$ bash commit-feat-scoped-description.sh -t "Title" -s "Scope" -d "Description"
+$ bash scripts/commit-feat-scoped-description.sh -t "Title" -s "Scope" -d "Description"
 ```
 
 <hr/>
@@ -104,9 +104,9 @@ $ bash commit-feat-scoped-description.sh -t "Title" -s "Scope" -d "Description"
 
 
 ```
-file: commit-refactor.sh
+file: commit-fix.sh
 
-$ bash commit-refactor.sh -t "Title" -d "Description"
+$ bash scripts/commit-fix.sh -t "Title" -d "Description"
 ```
 
 <hr/>
@@ -121,7 +121,7 @@ $ bash commit-refactor.sh -t "Title" -d "Description"
 ```
 file: commit-refactor.sh
 
-$ bash commit-refactor.sh -t "Title" -d "Description"
+$ bash scripts/commit-refactor.sh -t "Title" -d "Description"
 ```
 
 
