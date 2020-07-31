@@ -1,47 +1,23 @@
-# hackathon-IBM
-Hackathon Call for Code - IBM
+# Hackathon IBM - Call for Code 
+
+## The EduDoa Project
+With one click any person can donate their unused mobile data to our community of students.
+<hr>
+
+# Getting Started
 
 
-## API Routes
-```
-- Begin Watson Assistant
-GET /api/bot/beginAssistant 
-```
-```
-- Receive data from user's input and reply 
-POST /api/bot/talkAssistant 
-```
-```
-- Close Watson Assistant connection
-POST /api/bot/closeAssistant 
-```
+## Built With
 
-## Backend manual:
-**install NPM inside backend folder:**
-
-```
-$ npm i 
-```
-**To run backend on localhost**
-```
-$ npm run dev
-```
-**To build for production**
-```
-$ npm run build
-```
-**To run in production mode**
-```
-$ npm start
-```
+* [NodeJS](https://nodejs.org/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [TypeScript](https://www.typescriptlang.org/) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+* [IBM Watson](https://www.ibm.com/watson/br-pt/) - Watson is IBM’s suite of enterprise-ready AI services, applications, and tooling.
+* [IBM Cloud Foundry](https://www.ibm.com/cloud/cloud-foundry) - Deploy and scale apps without manually configuring and managing servers
 
 
+## How To Commit
 
-<hr/>
-
-
-
-## To use the conventional commits, follow the scripts below
+### To use the conventional commits, follow the scripts below
 
 **to commit DOCS changes:**
 ```
@@ -125,3 +101,5 @@ $ bash scripts/commit-refactor.sh -t "Title" -d "Description"
 ```
 
 
+## License
+This project is unlicensed - be my guest to code.
