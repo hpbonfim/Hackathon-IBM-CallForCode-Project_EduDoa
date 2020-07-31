@@ -23,6 +23,8 @@
 </p>
 <hr>
 
+# Getting Started
+
 <h2 align="center">The EduDoa Project</h2>
 <p align="center"><b>
 With one click any person can donate their unused mobile data to our community of students.</b>
@@ -35,7 +37,7 @@ With one click any person can donate their unused mobile data to our community o
 <hr>
 
 
-# Getting Started
+
 
 
 ## Built With
