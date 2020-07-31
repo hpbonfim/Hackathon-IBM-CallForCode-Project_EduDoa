@@ -26,7 +26,7 @@ class WatsonFunctions {
                     sessionId: ASSISTANT_SESSION_ID,
                     input: {
                         'message_type': 'text',
-                        'text': 'Hello'
+                        'text': 'chooseLanguage'
                     }
                 })
                     .then(response => {
