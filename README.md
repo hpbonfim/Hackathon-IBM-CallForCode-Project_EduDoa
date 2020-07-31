@@ -1,8 +1,39 @@
 # Hackathon IBM - Call for Code 
 
-## The EduDoa Project
-With one click any person can donate their unused mobile data to our community of students.
+<p align="center">
+  <a href="https://github.com/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa#readme">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa"/>
+  </a>
+
+  <a href="https://github.com/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa#readme">
+    <img alt="size" src="https://img.shields.io/github/repo-size/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa"/>
+  </a>
+
+  <a href="https://github.com/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa">
+  </a>
+
+  <a href="https://github.com/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa#readme">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="https://github.com/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa#readme" />
+  </a>
+
+  <a href="https://github.com/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa/graphs/commit-activity">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="https://github.com/hpbonfim/Hackathon-IBM-CallForCode-Project_EduDoa#readme" />
+  </a>
+</p>
 <hr>
+
+<h2 align="center">The EduDoa Project</h2>
+<p align="center"><b>
+With one click any person can donate their unused mobile data to our community of students.</b>
+</p>
+<p align="center">
+<a href="https://hpbonfim.github.io/Hackathon-IBM-CallForCode-Project_EduDoa/index.html" >
+  <img src="https://img.shields.io/badge/checkout%20the%20website-edudoa-2E8B57?style=for-the-badge"/>
+</a>
+</p>
+<hr>
+
 
 # Getting Started
 
